@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.FizzBuzz", "kata-fizzbuzz\Kata.FizzBuzz.csproj", "{4FD5469B-C093-4461-99CC-05E61D59C06B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.FizzBuzz", "kata.fizzbuzz\Kata.FizzBuzz.csproj", "{4FD5469B-C093-4461-99CC-05E61D59C06B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
